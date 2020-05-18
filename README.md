@@ -2,7 +2,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/rocket.png" width="100" height="100">
 </p>
 
-<h1 align="center">MERN Search Sort and Filter</h1>
+<h1 align="center">MERN-stack Search Sort and Filter</h1>
 
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
@@ -52,9 +52,9 @@
 
 
 
-[forks-shield]: https://img.shields.io/github/forks/kaboobear/MERN-Filter-Sort-Search?style=flat-square
-[forks-url]: https://github.com/kaboobear/MERN-Filter-Sort-Search/network/members
-[issues-shield]: https://img.shields.io/github/issues/kaboobear/MERN-Filter-Sort-Search.svg?style=flat-square
-[issues-url]: https://github.com/kaboobear/MERN-Filter-Sort-Search/issues
-[license-shield]: https://img.shields.io/github/license/kaboobear/MERN-Filter-Sort-Search.svg?style=flat-square
-[license-url]: https://github.com/kaboobear/MERN-Filter-Sort-Search/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/kaboobear/Filter-Sort-Search?style=flat-square
+[forks-url]: https://github.com/kaboobear/Filter-Sort-Search/network/members
+[issues-shield]: https://img.shields.io/github/issues/kaboobear/Filter-Sort-Search.svg?style=flat-square
+[issues-url]: https://github.com/kaboobear/Filter-Sort-Search/issues
+[license-shield]: https://img.shields.io/github/license/kaboobear/Filter-Sort-Search.svg?style=flat-square
+[license-url]: https://github.com/kaboobear/Filter-Sort-Search/blob/master/LICENSE.txt
